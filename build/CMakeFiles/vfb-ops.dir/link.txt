@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvfb-ops.a CMakeFiles/vfb-ops.dir/vfb-ops.cpp.o
+/usr/bin/ranlib libvfb-ops.a
